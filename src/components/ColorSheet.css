@@ -1,0 +1,17 @@
+.red {
+  background-color: red($color: #FF0000)
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+div {
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
